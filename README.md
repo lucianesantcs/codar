@@ -17,7 +17,6 @@ Desafio de Front-End proposto pelo Dev Challenge, site para desenvolvedores melh
 
 - HTML5
 - CSS
-- Sass
 
 ### Author
 
