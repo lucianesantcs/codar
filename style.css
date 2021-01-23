@@ -49,6 +49,10 @@ input {
   margin-bottom: 16px;
 }
 
+.btn a {
+  color: #fff;
+}
+
 .btn {
   background-color: #d6000d;
   color: #fff;
