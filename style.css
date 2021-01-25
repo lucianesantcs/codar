@@ -312,7 +312,7 @@ footer .feather {
     margin: 5px 0;
   }
 
-  header nav .btn-login {
+  header nav ul li:last-child {
     display: none;
   }
 
@@ -327,12 +327,17 @@ footer .feather {
   }
 
   main .information h3 {
-    font-size: 25px;
+    font-size: 20px;
   }
 
   main .information h1 {
     font-size: 35px;
     color: #d6000d;
+  }
+
+  .btn,
+  input {
+    width: 280px;
   }
 
   main .information .btn-cta {
@@ -377,6 +382,11 @@ footer .feather {
 
   section .cards {
     flex-direction: column;
+  }
+
+  section .cards .card .comments-image {
+    width: 65px;
+    height: 65px;
   }
 
   footer section {
